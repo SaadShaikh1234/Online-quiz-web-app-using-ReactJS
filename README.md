@@ -70,19 +70,33 @@ This command runs the app in development mode. Open http://localhost:3000 to vie
 ## 📂 Project Structure
 your-quiz-game-repo/
 ├── public/
+
 │   ├── index.html           # Main HTML file
+
 │   └── ...
+
 ├── src/
+
 │   ├── components/          # Reusable React components (e.g., QuestionCard, Results)
+
 │   ├── data/                # Quiz questions data (e.g., questions.js/json)
+
 │   ├── App.js               # Main application component
+
 │   ├── index.js             # React app entry point
+
 │   ├── App.css              # Main application styling
+
 │   └── ...
+
 ├── assets/                  # (Optional) Directory for screenshots, images
+
 ├── .gitignore               # Files/folders ignored by Git
+
 ├── package.json             # Project metadata and dependencies
+
 ├── README.md                # This README file
+
 └── LICENSE                  # Project license file
 
 ---
