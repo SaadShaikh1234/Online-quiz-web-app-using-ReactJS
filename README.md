@@ -24,13 +24,10 @@ A dynamic and interactive Quiz Game Web Application built with React.js. This ap
 ---
 
 ## 🛠️ Technologies Used
-• **JavaScript (ES6+):** Core programming language.
-
-• **HTML5:** Structure of the web application.
-
-• **CSS3:** Styling and visual presentation.
-
-• **Node.js & npm (or Yarn):** JavaScript runtime and package manager for development environment.
+• **JavaScript (ES6+)** – Core programming language  
+• **HTML5** – Structure of the web application  
+• **CSS3** – Styling and visual presentation  
+• **Node.js & npm (or Yarn)** – JavaScript runtime and package manager for development environment
 
 ---
 
