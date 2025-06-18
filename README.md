@@ -1,5 +1,5 @@
 # 🧠 Quiz Game WebApp using React
-A dynamic and interactive Quiz Game Web Application built with React.js. This app allows users to test their knowledge on various topics, track their scores, and enjoy a seamless quiz experience.
+A dynamic and interactive Quiz Game Web Application built with React.js and Vite. This app allows users to test their knowledge on various topics, track their scores, and enjoy a seamless quiz experience.
 
 ---
 
