@@ -68,7 +68,8 @@ This command runs the app in development mode. Open http://localhost:3000 to vie
 ---
 
 ## 📂 Project Structure
-your-quiz-game-repo/
+quiz-game/
+
 ├── public/
 
 │   ├── index.html           # Main HTML file
@@ -88,8 +89,6 @@ your-quiz-game-repo/
 │   ├── App.css              # Main application styling
 
 │   └── ...
-
-├── assets/                  # (Optional) Directory for screenshots, images
 
 ├── .gitignore               # Files/folders ignored by Git
 
