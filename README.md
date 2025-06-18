@@ -93,11 +93,9 @@ your-quiz-game-repo/
 
 ├── .gitignore               # Files/folders ignored by Git
 
-├── package.json             # Project metadata and dependencies
+└── package.json             # Project metadata and dependencies
 
-├── README.md                # This README file
 
-└── LICENSE                  # Project license file
 
 ---
 
